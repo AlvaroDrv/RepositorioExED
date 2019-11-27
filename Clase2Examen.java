@@ -3,15 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Hola;
+package alvarodiazroizgit;
 
 /**
  *
  * @author DAW106
  */
-public class Hola {
-    public static void main (String [] args){
-        System.out.println("Hola mundo!");
-        System.out.println("Hola mundo! 2");
-    }
+public class Clase2Examen {
+    
 }
